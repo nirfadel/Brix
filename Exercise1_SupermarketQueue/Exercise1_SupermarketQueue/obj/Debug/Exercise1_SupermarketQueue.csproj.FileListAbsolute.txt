@@ -1,0 +1,21 @@
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.exe.config
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.exe
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.pdb
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.csprojResolveAssemblyReference.cache
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.csproj.CoreCompileInputs.cache
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.exe
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.pdb
+C:\Users\nir.fadel\Downloads\VS_Queue\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.exe.config
+C:\Users\nir.fadel\Downloads\VS_Queue\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.exe
+C:\Users\nir.fadel\Downloads\VS_Queue\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.pdb
+C:\Users\nir.fadel\Downloads\VS_Queue\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.csprojResolveAssemblyReference.cache
+C:\Users\nir.fadel\Downloads\VS_Queue\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.csproj.CoreCompileInputs.cache
+C:\Users\nir.fadel\Downloads\VS_Queue\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.exe
+C:\Users\nir.fadel\Downloads\VS_Queue\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.pdb
+C:\Users\ניר ורעות\Documents\Nir\Brix\e1_v2\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.exe.config
+C:\Users\ניר ורעות\Documents\Nir\Brix\e1_v2\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.exe
+C:\Users\ניר ורעות\Documents\Nir\Brix\e1_v2\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\bin\Debug\Exercise1_SupermarketQueue.pdb
+C:\Users\ניר ורעות\Documents\Nir\Brix\e1_v2\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.csprojResolveAssemblyReference.cache
+C:\Users\ניר ורעות\Documents\Nir\Brix\e1_v2\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.csproj.CoreCompileInputs.cache
+C:\Users\ניר ורעות\Documents\Nir\Brix\e1_v2\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.exe
+C:\Users\ניר ורעות\Documents\Nir\Brix\e1_v2\Exercise1_SupermarketQueue\Exercise1_SupermarketQueue\obj\Debug\Exercise1_SupermarketQueue.pdb

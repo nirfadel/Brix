@@ -1,0 +1,8 @@
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\bin\Debug\Exercise2_SearchText.exe.config
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\bin\Debug\Exercise2_SearchText.exe
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\bin\Debug\Exercise2_SearchText.pdb
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\obj\Debug\Exercise2_SearchText.csprojResolveAssemblyReference.cache
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\obj\Debug\Exercise2_SearchText.csproj.CoreCompileInputs.cache
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\obj\Debug\Exercise2_SearchText.exe
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\obj\Debug\Exercise2_SearchText.pdb
+C:\Users\ניר ורעות\Documents\Nir\Brix\Exercise2_SearchText\Exercise2_SearchText\bin\Debug\Files\data.txt
